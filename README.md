@@ -16,7 +16,7 @@ Dento Simple Landing Page (Landing Page With HTML5, CSS3, JS, Bootstrap 5, jQuer
 ## Template Structure
 
 ```shell
-CleanServices/                    # → Root of your Template
+Dento/                            # → Root of your Template
 ├── assets/                       # → Assets files
 │   ├── css/                      # → Compiled CSS file
 │   ├── img/                      # → Template images
